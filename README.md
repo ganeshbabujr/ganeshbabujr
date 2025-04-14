@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GANESH BABU J R</h1>
+<h1 align="center">Hi 👋, I'm  GANESH BABU J R</h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
