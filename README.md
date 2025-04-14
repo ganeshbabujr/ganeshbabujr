@@ -1,11 +1,17 @@
+<h1 align="center">Hi 👋, I'm Ansh Lamba</h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm  Ganesh Babu J R..;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+GANESH+BABU+JR..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="#">Ganesh Babu J R</a></b>
+        </samp>
+</h3>
 
 <p align="center"> 
   <samp>
