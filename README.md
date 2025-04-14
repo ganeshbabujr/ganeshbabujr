@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+    Hi, I'm GANESH BABU J R, PL/SQL Developer & Data Engineer & Software Developer from Chennai
   <br>
   <br>
   🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
