@@ -1,9 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -61,7 +55,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ganeshbabujaisankar5@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ganeshbabu-dev/)
+ 💬 &emsp; Ask me about anything [here](https://github.com/ganeshbabujr/)
 
 </p>
 
@@ -100,21 +94,21 @@
 
 
 <p align="center">
-  <a href="https://github.com/ganeshbabu-dev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshbabu-dev&theme=radical" alt="Ganesh Babu's GitHub Contribution"/>
+  <a href="https://github.com/ganeshbabujr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshbabujr&theme=radical" alt="Ganesh Babu's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/ganeshbabu-dev"><img alt="Ganeshbabu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ganeshbabu-dev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ganeshbabu-dev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ganeshbabujr"><img alt="Ganeshbabu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ganeshbabujr&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ganeshbabujr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
   <br>
   <div align=center>
-    <a href="https://github.com/ganeshbabu-dev/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbabu-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/ganeshbabujr/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbabujr&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -126,7 +120,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ganeshbabu-dev/Breathing-Application" title="Breathing Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabu-dev&repo=Breathing-Application&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ganeshbabujr/Breathing-Application" title="Breathing Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Breathing-Application&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -142,7 +136,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/ganeshbabu-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/ganeshbabujr?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
