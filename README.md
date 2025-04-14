@@ -8,7 +8,8 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Ganesh Babu J R</a></b>
+           <!--     <b><a target="_blank" href="#">Ganesh Babu J R</a></b>  -->
+          <h1 align="center">Hi 👋, I'm Ansh Lamba</h1>
         </samp>
 </h3>
 
