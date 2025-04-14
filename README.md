@@ -102,7 +102,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ganeshbabujr/ganeshbabujr" title="Ganesh"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ganeshbabujr/ganeshbabujr" title="Ganesh Babu"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=ganeshbabujr&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/ganeshbabujr/" title="Azure Data Engineering"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Data-Engineering-Project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -115,11 +115,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 -->
-
-<h4 align="center">
-  <a href="https://github.com/ganeshbabujr?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 
 <h4 align="center">
   <a href="https://github.com/ganeshbabujr?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
