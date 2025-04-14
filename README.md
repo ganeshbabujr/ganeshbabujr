@@ -145,6 +145,4 @@
   <a href="https://github.com/ganeshbabu-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<br>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshbabu-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
