@@ -97,14 +97,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/ganeshbabujr/Data-Engineering-Project" title="Data Engineering Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Data-Engineering-Projectn&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/ganeshbabujr/Breathing-Application" title="Breathing Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Breathing-Application&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ganeshbabujr/ganeshbabujr" title="Ganesh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=ganeshbabujr&theme=react&border_color=61dafb&border_radius=10"></a>
+
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<!--
+
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ganeshbabujr/ganeshbabujr" title="Ganesh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=ganeshbabujr&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<!--
   <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
