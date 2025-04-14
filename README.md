@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<!-- Intro  -->  
+<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="#">Ganesh Babu J R</a></b>
