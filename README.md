@@ -121,7 +121,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/ganeshbabujr/Breathing-Application" title="Breathing Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Breathing-Application&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ganeshbabujr/ganeshbabujr" title="Ganesh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=ganeshbabujr&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
