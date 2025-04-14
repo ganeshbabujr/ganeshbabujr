@@ -119,8 +119,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshbabu-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+ </p>
 
 <hr>
 
@@ -151,3 +150,6 @@
   <a href="https://github.com/ganeshbabu-dev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
+<br>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshbabu-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
