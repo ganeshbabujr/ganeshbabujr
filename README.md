@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ansh Lamba</h1>
+<h1 align="center">Hi 👋, I'm GANESH BABU J R</h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+GANESH+BABU+JR&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=PL/SQL Developer+Data Engineer&center=true&size=30">
   </a>
 </h1>
 
