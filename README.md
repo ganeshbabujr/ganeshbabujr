@@ -97,7 +97,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ganeshbabujr/Data-Engineering-Project" title="Data Engineering Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Data-Engineering-Projectn&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ganeshbabujr/Data-Engineering-Project" title="Data Engineering Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Data-Engineering-Project&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/ganeshbabujr/Breathing-Application" title="Breathing Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshbabujr&repo=Breathing-Application&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
